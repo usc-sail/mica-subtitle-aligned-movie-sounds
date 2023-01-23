@@ -1,0 +1,16 @@
+llvmlite==0.36.0
+matplotlib==3.4.2
+numba==0.53.1
+numpy==1.20.3
+opencv-python==4.5.5.64
+scikit-learn==0.24.2
+scipy==1.6.3
+sklearn==0.0
+timm==0.4.5
+tokenizers==0.11.6
+torch==1.8.1
+torchaudio==0.8.1
+tqdm=4.63.0
+transformers==4.17.0
+wget==3.2
+zipp==3.4.1
