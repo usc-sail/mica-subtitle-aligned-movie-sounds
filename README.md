@@ -6,10 +6,11 @@ Github repo for the paper titled "A dataset for Audio-Visual Sound Event Detecti
 ## Dataset
 Details to download the dataset, features and pretrained models will be provided upon acceptance.
 
-## Environment 
-PyTorch - 1.8.1  
+## Dependencies
+torch - 1.8.1  
 torchaudio - 0.8.1  
 timm - 0.4.5  
+transformers - 4.17.0
 
 ## Training 
 Install dependencies 
