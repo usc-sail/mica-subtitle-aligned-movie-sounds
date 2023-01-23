@@ -1,0 +1,1903 @@
+,audio_tag,sound,source,quality
+0,alarm ringing,ringing,alarm,None
+1,all gasp,gasp,None,None
+2,all gasping,gasping,None,None
+3,all grunt,grunt,None,None
+4,all grunting,grunting,None,None
+5,all laugh,laugh,None,None
+6,all screaming,screaming,None,None
+7,all shouting,shouting,None,None
+8,all whooping,whooping,None,None
+9,all yelling,yelling,None,None
+10,baby cooing,cooing,baby,None
+11,banging,banging,None,None
+12,blows raspberry,blows,None,None
+13,both groan,groan,None,None
+14,both scream,scream,None,None
+15,both screaming,screaming,None,None
+16,both speaking french,speaking,None,None
+17,breathes deeply,breathes,None,deeply
+18,breathing heavlly,breathing,None,heavily
+19,buzzing,buzzing,None,None
+20,camera shutter clicking,clicking,camera,None
+21,car approaching,None,car,approaching
+22,car door closes,closes,car door,None
+23,car engine starts,None,engine,starts
+24,cell phone chimes,chimes,cell phone,None
+25,chanting continues,chanting,None,None
+26,cheering,cheering,None,None
+27,cheering and applause,cheering;applause,None,None
+28,cheering continues,cheering,None,None
+29,cheers and applause,cheers;applause,None,None
+30,chewie growls,growls,chewie,None
+31,chimes,chimes,None,None
+32,chiming,chiming,None,None
+33,chokes,chokes,None,None
+34,choking,choking,None,None
+35,chuckles softly,chuckles,None,softly
+36,clangs,clangs,None,None
+37,computer beeping,beeping,computer,None
+38,continues grunting,grunting,None,None
+39,crackling,crackling,None,None
+40,cries,cries,None,None
+41,crying,crying,None,None
+42,dance music playing,music,None,None
+43,dog barking in distance,barking,dog,in distance
+44,door closes,closes,door,None
+45,door slams,slams,door,None
+46,dramatic music,music,None,dramatic
+47,dramatic music playing,music,None,dramatic
+48,electronic voice,voice,None,electronic
+49,electronic whirring,whirring,None,electronic
+50,engine revving,revving,engine,None
+51,exhales deeply,exhales,None,deeply
+52,exhales sharply,exhales,None,sharply
+53,exhaling,exhaling,None,None
+54,footsteps approaching,footsteps,None,approaching
+55,funk music playing,music,None,None
+56,gags,gags,None,None
+57,gasping breaths,gasping,None,None
+58,gasps softly,gasps,None,softly
+59,groans,groans,None,None
+60,growling,growling,None,None
+61,grunting and groaning,grunting;groaning,None,None
+62,gun clicks,clicks,gun,None
+63,gunshot,gunshot,gun,None
+64,henry,None,None,None
+65,high-pitched ringing,ringing,None,high-pitched
+66,hip-hop music playing,music,None,None
+67,horn honking,honking,horn,None
+68,huffs,huffs,None,None
+69,in german,speaking,None,None
+70,in normal voice,voice,None,None
+71,in spanish,speaking,None,None
+72,in unison,speaking,None,in unison
+73,indistinct conversation,conversation,None,indistinct
+74,indistinct conversations,conversations,None,indistinct
+75,indistinct talking,talking,None,indistinct
+76,indistinct yelling,yelling,None,indistinct
+77,inhales deeply,inhales,None,deeply
+78,inhales sharply,inhales,None,sharply
+79,instrumental music playing,music,None,None
+80,jazz music playing,music,None,None
+81,knock on door,knocks,door,None
+82,knocking on door,knocking,door,None
+83,knocks on door,knocks,door,None
+84,labored breathing,breathing,None,labored
+85,line disconnects,disconnects,phone,None
+86,loud thud,thud,None,loud
+87,man on radio,None,radio,None
+88,mouthing,mouthing,None,None
+89,mouths,mouths,None,None
+90,muffled grunting,grunting,None,muffled
+91,muffled screaming,screaming,None,muffled
+92,mumbles,mumbles,None,None
+93,murmuring,murmuring,None,None
+94,music continues playing,music,None,None
+95,music fades,music,None,fades
+96,music stops,music,None,stop
+97,on radio,None,radio,None
+98,over speaker,None,speaker,None
+99,panting,panting,None,None
+100,phone ringing,ringing,phone,None
+101,piano playing,music,piano,None
+102,pounding on door,pounding,door,None
+103,purring,purring,None,None
+104,quiet chatter,chatter,None,quiet
+105,rapid beeping,beeping,None,rapid
+106,rattling,rattling,None,None
+107,ringing continues,ringing,None,None
+108,rock music playing,music,None,None
+109,rustling,rustling,None,None
+110,screaming,screaming,None,None
+111,screaming continues,screaming,None,None
+112,shrieks,shrieks,None,None
+113,shushing,shushing,None,None
+114,sighing,sighing,None,None
+115,sighs heavily,sighs,None,heavily
+116,singing continues,singing,None,None
+117,siren wailing in distance,wailing,siren,in distance
+118,sirens wailing,wailing,sirens,None
+119,slghs,sighs,None,None
+120,slow music playing,music,None,slow
+121,slurping,slurping,None,None
+122,sniffs,sniffs,None,None
+123,soft music playing,music,None,soft
+124,somber music,music,None,somber
+125,song ends,song,None,None
+126,speaking alien language,speaking,None,None
+127,speaking cantonese,speaking,None,None
+128,speaking foreign language,speaking,None,None
+129,speaking french,speaking,None,None
+130,speaking german,speaking,None,None
+131,speaking in french,speaking,None,None
+132,speaking in spanish,speaking,None,None
+133,speaking japanese,speaking,None,None
+134,speaking korean,speaking,None,None
+135,speaking mandarin,speaking,None,None
+136,speaking xhosa,speaking,None,None
+137,speaks in french,speaking,None,None
+138,squawking,squawking,None,None
+139,squawks,squawks,None,None
+140,squeaking,squeaking,None,None
+141,stammering,stammering,None,None
+142,straining,straining,None,None
+143,takes deep breath,breath,None,deep
+144,thudding,thudding,None,None
+145,thump,thump,None,None
+146,thunder crashes,thunder,None,crashes
+147,ticking,ticking,None,None
+148,train whistle blowing,whistle,train,None
+149,turing,None,None,None
+150,upbeat music playing,music,None,upbeat
+151,vocalizing,vocalizing,None,None
+152,wheezing,wheezing,None,None
+153,whimpering,whimpering,None,None
+154,whining,whining,None,None
+155,whistles,whistles,None,None
+156,yells,yells,None,None
+157,yelps,yelps,None,None
+158,adonis,None,None,None
+159,air hissing,hissing,air,None
+160,alarm beeping,beeping,alarm,None
+161,alarm blaring,blaring,alarm,None
+162,alarms blaring,blaring,alarms,None
+163,all applauding,applause,None,None
+164,all chattering,chattering,None,None
+165,all cheering,cheering,None,None
+166,all chuckle,chuckle,None,None
+167,all chuckling,chuckling,None,None
+168,all clamoring,clamoring,None,None
+169,all exclaim,exclaim,None,None
+170,all exclaiming,exclaiming,None,None
+171,all groan,groan,None,None
+172,all groaning,groaning,None,None
+173,all laughing,laughing,None,None
+174,all murmuring,murmuring,None,None
+175,all panting,panting,None,None
+176,announcer,None,None,None
+177,applauding,applause,None,None
+178,applause,applause,None,None
+179,arthur,None,None,None
+180,audience applauding,applause,audience,None
+181,audience cheering,cheering,audience,None
+182,audience gasps,gasps,audience,None
+183,audience laughing,laughing,audience,None
+184,baby crying,crying,baby,None
+185,banging on door,banging,door,None
+186,barking,barking,None,None
+187,barking continues,barking,None,None
+188,barks,barks,None,None
+189,bb-8 chirping,chirping,bb-8,None
+190,bb-8 chirps,chirps,bb-8,None
+191,beep,beep,None,None
+192,beeping,beeping,None,None
+193,beeping continues,beeping,None,None
+194,beeping rapidly,beeping,None,rapidly
+195,beeps,beeps,None,None
+196,bell clangs,clangs,bell,None
+197,bell dinging,dinging,bell,None
+198,bell dings,dings,bell,None
+199,bell ringing,ringing,bell,None
+200,bell rings,rings,bell,None
+201,bell tolling,tolling,bell,None
+202,bell tolls,tolls,bell,None
+203,bellowing,bellowing,None,None
+204,billy,None,None,None
+205,birds chirping,chirping,birds,None
+206,bleep,bleep,None,None
+207,blowing,blowing,None,None
+208,blows,None,None,None
+209,blows whistle,whistle,None,None
+210,both,None,None,None
+211,both chuckle,chuckle,None,None
+212,both chuckling,chuckling,None,None
+213,both gasp,gasp,None,None
+214,both groaning,groaning,None,None
+215,both grunt,grunt,None,None
+216,both grunting,grunting,None,None
+217,both laugh,laugh,None,None
+218,both laughing,laughing,None,None
+219,both moaning,moaning,None,None
+220,both panting,panting,None,None
+221,both yelling,yelling,None,None
+222,brakes screeching,screeching,brakes,None
+223,breath trembling,breath,None,trembling
+224,breathes heavily,breathes,None,heavily
+225,breathing deeply,breathing,None,deeply
+226,breathing heavily,breathing,None,heavily
+227,breathing shakily,breathing,None,shakily
+228,burps,burps,None,None
+229,buzzer sounds,sounds,buzzer,None
+230,cackles,cackles,None,None
+231,cackling,cackling,None,None
+232,camera clicking,clicking,camera,None
+233,camera clicks,clicks,camera,None
+234,camera shutter clicks,clicks,camera,None
+235,cameras clicking,clicking,cameras,None
+236,car alarm blaring,blaring,car alarm,None
+237,car door opens,opens,car door,None
+238,car horn honking,honking,car horn,None
+239,car horn honks,honks,car horn,None
+240,casey,None,None,None
+241,cat meows,meows,cat,None
+242,cawing,cawing,None,None
+243,cell phone beeps,beeps,cell phone,None
+244,cell phone buzzing,buzzing,cell phone,None
+245,cell phone chiming,chiming,cell phone,None
+246,cell phone ringing,ringing,cell phone,None
+247,cell phone rings,rings,cell phone,None
+248,cell phone vibrating,vibrating,cell phone,None
+249,chanting,chanting,None,None
+250,chattering,chattering,None,None
+251,chattering continues,chattering,None,None
+252,children chattering,chattering,children,None
+253,children laughing,laughing,children,None
+254,chirping,chirping,None,None
+255,chittering,chittering,None,None
+256,chuckles,chuckles,None,None
+257,chuckles nervously,chuckles,None,nervously
+258,chuckling,chuckling,None,None
+259,clamoring,clamoring,None,None
+260,clamoring continues,clamoring,None,None
+261,clanging,clanging,None,None
+262,clanking,clanking,None,None
+263,clapping,clapping,None,None
+264,classical music playing,music,None,None
+265,clattering,clattering,None,None
+266,clatters,clatters,None,None
+267,clears throat,clears throat,None,None
+268,clicking,clicking,None,None
+269,clicking tongue,clicking,tongue,None
+270,clicks,clicks,None,None
+271,clicks tongue,clicks,tongue,None
+272,clock ticking,ticking,clock,None
+273,closes,None,None,None
+274,cocks gun,cocks,gun,None
+275,computer chimes,chimes,computer,None
+276,condorito,None,None,None
+277,continues,None,None,None
+278,continues screaming,screaming,None,None
+279,continues singing,singing,None,None
+280,cooing,cooing,None,None
+281,coughing,coughing,None,None
+282,coughs,coughs,None,None
+283,country music playing,music,None,None
+284,crashing,crashing,None,None
+285,creaking,creaking,None,None
+286,crickets chirping,chirping,crickets,None
+287,crowd applauding,applause,crowd,None
+288,crowd chanting,chanting,crowd,None
+289,crowd chattering,chattering,crowd,None
+290,crowd cheering,cheering,crowd,None
+291,crowd clamoring,clamoring,crowd,None
+292,crowd exclaiming,exclaiming,crowd,None
+293,crowd gasping,gasping,crowd,None
+294,crowd gasps,gasps,crowd,None
+295,crowd laughing,laughing,crowd,None
+296,crowd murmuring,murmuring,crowd,None
+297,crowd screaming,screaming,crowd,None
+298,crowd shouting,shouting,crowd,None
+299,crunching,crunching,None,None
+300,crying continues,crying,None,None
+301,david,None,None,None
+302,dialing,dialing,None,None
+303,diane,None,None,None
+304,dings,dings,None,None
+305,distorted,None,None,None
+306,dog barking,barking,dog,None
+307,dog barks,barks,dog,None
+308,dogs barking,barking,dogs,None
+309,door buzzes,buzzes,door,None
+310,door creaking,creaking,door,None
+311,door creaks,creaks,door,None
+312,door opening,opening,door,None
+313,door opens,None,None,None
+314,door shuts,shuts,door,None
+315,doorbell ringing,ringing,doorbell,None
+316,doorbell rings,rings,doorbell,None
+317,echoing,echoing,None,None
+318,electrical buzzing,buzzing,None,electrical
+319,electricity crackling,crackling,electricity,None
+320,elevator bell dings,dings,elevator bell,None
+321,elevator dings,dings,elevator,None
+322,engine revs,revs,engine,None
+323,engine rewing,revving,engine,None
+324,engine roaring,roaring,engine,None
+325,engine sputtering,sputtering,engine,None
+326,engine starting,None,engine,start
+327,engine starts,None,engine,start
+328,engine stops,None,engine,stop
+329,english - us - sdh,None,None,None
+330,excited chatter,chatter,None,excited
+331,exclaiming,exclaim,None,None
+332,exclaims,exclaims,None,None
+333,exhales,exhales,None,None
+334,explosion,explosion,None,None
+335,explosions,explosions,None,None
+336,faint,None,None,None
+337,fire crackling,crackling,fire,None
+338,flies buzzing,buzzing,flies,None
+339,footsteps,footsteps,None,None
+340,gagging,gagging,None,None
+341,gasping,gasping,None,None
+342,gasps,gasps,None,None
+343,giggles,giggles,None,None
+344,giggling,giggling,None,None
+345,girl,None,None,None
+346,girls laughing,laughing,girls,None
+347,glass shattering,shattering,glass,None
+348,glass shatters,shatters,glass,None
+349,grandma,None,None,None
+350,groaning,groaning,None,None
+351,groans softly,groans,None,softly
+352,growls,growls,None,None
+353,grumbling,grumbling,None,None
+354,grunting,grunting,None,None
+355,grunting continues,grunting,None,None
+356,grunts,grunts,None,None
+357,grunts softly,grunts,None,softly
+358,gulps,gulps,None,None
+359,gun clicking,clicking,gun,None
+360,gun cocks,cocks,gun,None
+361,gun fires,fires,gun,None
+362,gun firing,firing,gun,None
+363,gunfire,gunfire,None,None
+364,gunfire continues,None,None,None
+365,guns cocking,cocking,guns,None
+366,guns firing,firing,guns,None
+367,gunshots,gunshots,None,None
+368,hammering,hammering,None,None
+369,heavy breathing,breathing,None,heavy
+370,helicopter blades whirring,whirring,helicopter,None
+371,helicopter whirring,whirring,helicopter,None
+372,hisses,hisses,None,None
+373,hissing,hissing,None,None
+374,honking,honking,None,None
+375,horn blares,blares,horn,None
+376,horn blaring,blaring,horn,None
+377,horn blowing,blowing,horn,None
+378,horn honks,honks,horn,None
+379,horns honking,honking,horns,None
+380,horse neighing,neighing,horse,None
+381,horse neighs,neighs,horse,None
+382,horse whinnies,whinnies,horse,None
+383,horse whinnying,whinnying,horse,None
+384,horses neighing,neighing,horses,None
+385,horses whinnying,whinnying,horses,None
+386,howling,howling,None,None
+387,humming,humming,None,None
+388,in distance,None,None,None
+389,in english,None,None,None
+390,in french,None,None,None
+391,in russian,None,None,None
+392,inaudible,None,None,None
+393,inaudible dialogue,dialogue,None,inaudible
+394,indistinct,None,None,None
+395,indistinct announcement on pa,None,None,None
+396,indistinct chatter,chatter,None,indistinct
+397,indistinct chattering,chattering,None,indistinct
+398,indistinct radio chatter,chatter,radio,indistinct
+399,indistinct shouting,shouting,None,None
+400,indistinct whispering,whispering,None,indistinct
+401,inhales,inhales,None,None
+402,insects buzzing,buzzing,insects,None
+403,instrumental music,music,None,None
+404,j'j'j‘,None,None,None
+405,jack,None,None,None
+406,jake,None,None,None
+407,jenna,None,None,None
+408,jonas,None,None,None
+409,josie,None,None,None
+410,j‘j‘j‘,None,None,None
+411,keyboard clacking,clacking,keyboard,None
+412,kisses,None,None,None
+413,knocking,knocking,None,None
+414,knocks,knocks,None,None
+415,laughing,laughing,None,None
+416,laughs,laughs,None,None
+417,laughter,laugh,None,None
+418,lexi,None,None,None
+419,liam,None,None,None
+420,line ringing,ringing,phone,None
+421,lively chatter,chatter,None,lively
+422,lock clicks,clicks,lock,None
+423,loud rumbling,rumbling,None,loud
+424,low growling,growling,None,low
+425,machine whirring,whirring,machine,None
+426,man groans,groans,man,None
+427,man grunts,grunts,man,None
+428,man screaming,screaming,man,None
+429,man screams,screams,man,None
+430,man shouting,shouting,man,None
+431,maria,None,None,None
+432,mechanical whirring,whirring,None,mechanical
+433,men chattering,chattering,men,None
+434,men groaning,groaning,men,None
+435,men grunting,grunting,men,None
+436,men laughing,laughing,men,None
+437,men screaming,screaming,men,None
+438,men shouting,shouting,men,None
+439,men shouting indistinctly,shouting,men,indistinctly
+440,men yelling,yelling,men,None
+441,meows,meows,cat,None
+442,metal creaking,creaking,metal,None
+443,metallic creaking,creaking,None,None
+444,mice squeaking,squeaking,mice,None
+445,moaning,moaning,None,None
+446,moans,moans,None,None
+447,monitor beeping,beeping,monitor,None
+448,mother,None,None,None
+449,muffled,None,None,muffled
+450,mumbling,mumbling,None,None
+451,music,music,None,None
+452,music continues,music,None,None
+453,music ends,music,None,None
+454,music playing,music,None,None
+455,muttering,muttering,None,None
+456,mutters,mutters,None,None
+457,narrating,narrating,None,None
+458,narrator,None,None,None
+459,neighing,neighing,None,None
+460,no audible dialogue,None,None,None
+461,no audio,None,None,None
+462,normal voice,voice,None,None
+463,objects clattering,clattering,objects,None
+464,on pa,None,None,None
+465,on phone,None,None,None
+466,on recording,None,None,None
+467,on tv,None,tv,None
+468,over pa,None,None,None
+469,over phone,None,None,None
+470,over radio,None,None,None
+471,over speakers,None,None,None
+472,over tv,None,tv,None
+473,overlapping chatter,chatter,None,overlapping
+474,pants,None,None,None
+475,people chattering,chattering,people,None
+476,people chattering indistinctly,chattering,people,indistinctly
+477,people cheering,cheering,people,None
+478,people clamoring,clamoring,people,None
+479,people gasping,gasping,people,None
+480,people laughing,laughing,None,None
+481,people murmuring,murmuring,people,None
+482,people screaming,screaming,people,None
+483,people shouting,shouting,people,None
+484,percy,None,None,None
+485,peter,None,None,None
+486,phone beeps,beeps,phone,None
+487,phone buzzing,buzzing,phone,None
+488,phone chimes,chimes,phone,None
+489,phone rings,rings,phone,None
+490,police radio chatter,chatter,radio,None
+491,pop music playing,music,None,None
+492,quietly,None,None,quietly
+493,rain pattering,pattering,rain,None
+494,randy,None,None,None
+495,rapping,rapping,None,None
+496,raspy breathing,breathing,None,None
+497,reading,None,None,None
+498,referee,None,None,None
+499,reporters clamoring,clamoring,reporters,None
+500,retching,retching,None,None
+501,rhiannon,None,None,None
+502,ringing,ringing,None,None
+503,roaring,roaring,None,None
+504,roars,roars,None,None
+505,rocky,None,None,None
+506,rose,None,None,None
+507,rumbling,rumbling,None,None
+508,school bell ringing,ringing,school bell,None
+509,school bell rings,rings,school bell,None
+510,scoffs,scoffs,None,None
+511,scraping,scraping,None,None
+512,screams,screams,None,None
+513,screeches,screeches,None,None
+514,screeching,screeching,None,None
+515,sherlock,None,None,None
+516,shouting,shouting,None,None
+517,shouting continues,shouting,None,None
+518,shouts,shouts,None,None
+519,shrieking,shrieking,None,None
+520,shuddering,None,None,None
+521,shudders,None,None,None
+522,shushes,shushes,None,None
+523,shutter clicks,clicks,camera,None
+524,sighs,sighs,None,None
+525,sighs deeply,sighs,None,deeply
+526,singer,None,None,None
+527,singing,singing,None,None
+528,siren blaring,blaring,siren,None
+529,siren wailing,wailing,siren,None
+530,sirens blaring,blaring,sirens,None
+531,sirens wailing in distance,wailing,sirens,in distance
+532,sizzling,None,None,None
+533,slurps,slurps,None,None
+534,smacks lips,smacks,lips,None
+535,snaps fingers,snaps,fingers,None
+536,snarling,snarling,None,None
+537,snarls,snarls,None,None
+538,sneezes,sneezes,None,None
+539,snickering,snickering,None,None
+540,snickers,snickers,None,None
+541,sniffing,sniffing,None,None
+542,sniffles,sniffles,None,None
+543,sniffling,sniffling,None,None
+544,snoring,snoring,None,None
+545,snorting,snorting,None,None
+546,snorts,snorts,None,None
+547,sobbing,sobbing,None,None
+548,sobs,sobs,None,None
+549,softly,None,None,None
+550,soldier,None,None,None
+551,soldiers shouting,shouting,soldiers,None
+552,song continues,song,None,None
+553,speaking arabic,speaking,None,None
+554,speaking in foreign language,speaking,None,None
+555,speaking indistinctly,speaking,None,indistinctly
+556,speaking italian,speaking,None,None
+557,speaking minionese,speaking,None,None
+558,speaking russian,speaking,None,None
+559,speaking spanish,speaking,None,None
+560,speaks french,speaks,None,None
+561,speaks minionese,speaks,None,None
+562,speaks spanish,speaks,None,None
+563,spits,None,None,None
+564,squeaks,squeaks,None,None
+565,squealing,squealing,None,None
+566,squeals,squeals,None,None
+567,stammers,stammers,None,None
+568,static,static,None,None
+569,stops,None,None,None
+570,strained grunting,grunting,None,strained
+571,students laughing,laughing,students,None
+572,stuttering,stuttering,None,None
+573,stutters,stutters,None,None
+574,switch clicks,clicks,switch,None
+575,telephone ringing,ringing,telephone,None
+576,thud,thud,None,None
+577,thuds,thuds,None,None
+578,thumping,thumping,None,None
+579,thumps,thumps,None,None
+580,thunder crashing,thunder,None,crashing
+581,thunder rumbles,thunder,None,rumbles
+582,thunder rumbling,thunder,None,rumbling
+583,thunderclap,thunderclap,None,None
+584,tires screech,screech,tires,None
+585,tires screeching,screeching,tires,None
+586,tires squeal,squeal,tires,None
+587,tires squealing,squealing,tires,None
+588,together,None,None,None
+589,toilet flushes,flushes,toilet,None
+590,toilet flushing,flushing,toilet,None
+591,typing,typing,None,None
+592,urging horses,None,None,None
+593,vehicle approaching,None,None,None
+594,vick,None,None,None
+595,voice breaking,voice,None,breaking
+596,voice-over,voice-over,None,None
+597,wailing,wailing,None,None
+598,water running,None,water,running
+599,weakly,None,None,None
+600,whimpers,whimpers,None,None
+601,whines,whines,None,None
+602,whinnies,whinnies,None,None
+603,whip cracks,cracks,whip,None
+604,whirring,whirring,None,None
+605,whispering,whispering,None,None
+606,whispers,whispers,None,None
+607,whistle blowing,whistle,None,None
+608,whistle blows,whistle,None,None
+609,whistling,whistling,None,None
+610,whooping,whooping,None,None
+611,whoops,whoops,None,None
+612,whooshing,whooshing,None,None
+613,wind blowing,blowing,wind,None
+614,wind howling,howling,wind,None
+615,wind whistling,whistling,wind,None
+616,wind whooshing,whooshing,wind,None
+617,woman,None,None,None
+618,woman screaming,screaming,woman,None
+619,woman screams,screams,woman,None
+620,women laughing,laughing,women,None
+621,yawns,yawns,None,None
+622,yelling,yelling,None,None
+623,yelping,yelping,None,None
+0,alarm blares,blare,alarm,None
+1,alarm buzzing,buzz,alarm,None
+2,alarm continues,None,alarm,None
+3,alarm continues blaring,blare,alarm,None
+4,alarm sounding,sound,alarm,None
+5,alarm stops,None,alarm,stop
+6,alarm wailing,wail,alarm,None
+7,alarms beeping,beep,alarm,None
+8,all cheer,cheer,None,None
+9,all coughing,cough,None,None
+10,all scream,scream,None,None
+11,all shouting indistinctly,shout,None,indistinctly
+12,all sing in hebrew,sing,None,None
+13,all speaking indistinctly,speak,None,indistinctly
+14,all whimpering,whimper,None,None
+15,anne chuckles,chuckle,None,None
+16,audience gasping,gasp,audience,None
+17,audience murmuring,murmur,audience,None
+18,bailey barking,bark,bailey,None
+19,banging continues,bang,None,None
+20,beeping stops,beep,None,stop
+21,bell clanging,clang,bell,None
+22,bell jingles,jingle,bell,None
+23,bells jingling,jingle,bell,None
+24,bird squawking,squawk,bird,None
+25,birds cawing,caw,bird,None
+26,birds screeching,screech,bird,None
+27,birds squawking,squawk,bird,None
+28,body thuds,thud,body,None
+29,bones crack,crack,bones,None
+30,bones cracking,crack,bones,None
+31,both breathing heavily,breathe,None,heavily
+32,both gasping,gasp,None,None
+33,both sigh,sigh,None,None
+34,both speaking hindi,speak,None,None
+35,both speaking mandarin,speak,None,None
+36,boys laughing,laugh,boys,None
+37,boys shouting,shout,boys,None
+38,brakes screech,screech,brake,None
+39,brakes squeak,squeak,brake,None
+40,brakes squeal,squeal,brake,None
+41,brakes squealing,squeal,brake,None
+42,breathes shakily,breathe,None,shakily
+43,breathing hard,breathe,None,hard
+44,breathing rapidly,breathe,None,rapidly
+45,buzzes,buzz,None,None
+46,buzzing continues,buzz,None,None
+47,camera shutters clicking,click,camera,None
+48,car engine starting,None,engine,None
+49,car honking,honk,car,None
+50,car horns honking,honk,car horn,None
+51,car lock beeps,beep,car lock,None
+52,cars honking,honk,cars,None
+53,caws,caw,None,None
+54,cell phone beeping,beep,cell phone,None
+55,cell phone dinging,ding,cell phone,None
+56,cell phone vibrates,vibrate,cell phone,None
+57,chain rattling,rattle,chain,None
+58,chatter,chatter,None,None
+59,chatter continues,chatter,None,None
+60,chatters,chatter,None,None
+61,cheers,cheer,None,None
+62,chewie growling,growl,chewie,None
+63,chewie grunts,grunt,chewie,None
+64,children playing,play,child,None
+65,children screaming,scream,child,None
+66,children shouting,shout,child,None
+67,chirps,chirp,None,None
+68,chitters,chitter,None,None
+69,church bell tolling,toll,church bell,None
+70,clacking,clack,None,None
+71,claps,clap,None,None
+72,click,click,None,None
+73,clock chiming,chime,clock,None
+74,clocks ticking,tick,clock,None
+75,computer beeps,beep,computer,None
+76,console beeping,beep,console,None
+77,continues crying,cry,None,None
+78,continues laughing,laugh,None,None
+79,continues panting,pant,None,None
+80,continues sobbing,sob,None,None
+81,continues yelling,yell,None,None
+82,coos,coo,None,None
+83,cracking,crack,None,None
+84,creaking continues,creak,None,None
+85,crew laughing,laugh,None,None
+86,cries out,cry,None,None
+87,crowd chatter,chatter,crowd,None
+88,crowd cheering and applauding,cheer;applause,crowd,None
+89,crowd cheers,cheer,crowd,None
+90,crowd exclaims,exclaim,crowd,None
+91,crowd jeering,jeer,crowd,None
+92,crows cawing,caw,crow,None
+93,crying softly,cry,None,softly
+94,deep voice,voice,None,deep
+95,device beeping,beep,device,None
+96,device beeps,beep,device,None
+97,dial tone,dial tone,None,None
+98,dinging,ding,None,None
+99,distant explosions,explosion,None,distant
+100,distant gunfire,gunfire,None,distant
+101,dog whimpers,whimper,dog,None
+102,dog whining,whine,dog,None
+103,doomsday roaring,roar,None,None
+104,door buzzing,buzz,door,None
+105,door closing,close,door,None
+106,door creaks open,creak,door,None
+107,door opens and closes,open;close,door,None
+108,door rattling,rattle,door,None
+109,door slams shut,slam,door,None
+110,echoes,echo,None,None
+111,ekg beeping,beep,ekg,None
+112,electrical crackling,crackle,None,electrical
+113,electricity crackles,crackle,electricity,None
+114,electronic chiming,chime,None,electronic
+115,electronic chittering,chitter,None,electronic
+116,electronic music playing,music,None,None
+117,end call beeps,beep,phone,None
+118,engine backfires,backfires,engine,None
+119,engine off,None,engine,off
+120,engine rumbling,rumble,engine,None
+121,engine whirring,whir,engine,None
+122,engines revving,rev,engine,None
+123,exhales heavily,exhale,None,heavily
+124,explosions continue,explosion,None,None
+125,explosive whoosh,whoosh,None,explosive
+126,fanfare playing,fanfare,None,None
+127,female computer voice,voice,computer,None
+128,floor creaking,creak,floor,None
+129,floorboard creaks,creak,floorboard,None
+130,floorboards creaking,creak,floorboard,None
+131,fly buzzing,buzz,fly,None
+132,footsteps receding,footstep,None,receding
+133,frantic chatter,chatter,None,frantic
+134,game chimes,chime,game,None
+135,gavel bangs,bang,gavel,None
+136,girls giggling,giggle,girl,None
+137,glass clinking,clink,glass,None
+138,groaning continues,groan,None,None
+139,groaning loudly,groan,None,loudly
+140,groaning softly,groan,None,softly
+141,groans loudly,groan,None,loudly
+142,growling softly,growl,None,softly
+143,growls softly,growl,None,softly
+144,grumbles,grumble,None,None
+145,grunting and groaning continue,grunt;groan,None,None
+146,grunting softly,grunt,None,softly
+147,guests cheering,cheer,guests,None
+148,guitar music playing,music,guitar,None
+149,gun cocking,cock,gun,None
+150,gun shots,gunshot,gun,None
+151,gunshots continue,gunshot,gun,None
+152,helicopter approaching,None,helicopter,approaching
+153,hinges creaking,creak,hinge,None
+154,horns blaring,blare,horn,None
+155,horse snorts,snort,horse,None
+156,howling continues,howl,None,None
+157,howls,howl,None,None
+158,hums,hum,None,None
+159,imitates explosion,explosion,None,imitates
+160,in deep voice,voice,None,deep
+161,indistinct chatter continues,chatter,None,indistinct
+162,indistinct chatter on radio,chatter,radio,indistinct
+163,indistinct chatter over radio,chatter,radio,indistinct
+164,indistinct murmuring,murmur,None,indistinct
+165,indistinct police radio chatter,chatter,radio,indistinct
+166,inhaling,inhale,None,None
+167,insect buzzing,buzz,insect,None
+168,insects chirping,chirp,insect,None
+169,insects trilling,trill,insect,None
+170,jazzy music,music,None,None
+171,keypad beeping,beep,keypad,None
+172,keys clacking,clack,key,None
+173,kids chattering,chatter,kid,None
+174,kids laughing,laugh,kid,None
+175,knocking at door,knock,door,None
+176,knocking continues,knock,None,None
+177,knocking on window,knock,window,None
+178,laptop chimes,chime,laptop,None
+179,latin music playing,music,None,None
+180,laughing continues,laugh,None,None
+181,laughs nervously,laugh,None,nervously
+182,laughs softly,laugh,None,softly
+183,leah crying,cry,leah,None
+184,leaves rustling,rustle,leaf,None
+185,lighter clicks,click,lighter,None
+186,line clicks,click,phone,None
+187,line rings,ring,phone,None
+188,lisa screams,scream,lisa,None
+189,lock clicking,click,lock,None
+190,loud cheering,cheer,None,loud
+191,loud music playing,music,None,loud
+192,loud thudding,thud,None,loud
+193,loud thump,thump,None,loud
+194,loud whooshing,whoosh,None,loud
+195,low growl,growl,None,low
+196,machine beeping,beep,machine,None
+197,man coughing,cough,man,None
+198,man groaning,groan,man,None
+199,man grunting,grunt,man,None
+200,man laughing,laugh,man,None
+201,man laughs,laugh,man,None
+202,man on pa,None,pa,None
+203,man shouting indistinctly,shout,man,indistinctly
+204,man shouts,shout,man,None
+205,man speaking indistinctly,speak,man,indistinctly
+206,man speaking spanish,speak,man,None
+207,man whistling,whistle,man,None
+208,man yelling,yell,man,None
+209,man yells,yell,man,None
+210,max barking,bark,max,None
+211,men cheering,cheer,men,None
+212,men clamoring,clamor,men,None
+213,men murmuring,murmur,men,None
+214,men speaking indistinctly,speak,men,indistinctly
+215,men talking indistinctly,talk,men,indistinctly
+216,meowing,meow,None,None
+217,metal clanging,clang,metal,None
+218,metal clangs,clang,metal,None
+219,metal clanking,clank,metal,None
+220,muffled grunt,grunt,None,muffled
+221,muffled scream,scream,None,muffled
+222,muffled screams,scream,None,muffled
+223,muffled shouting,shout,None,muffled
+224,music playing on radio,music,radio,None
+225,music resumes,music,None,None
+226,neighs,neigh,None,None
+227,nervous chuckle,chuckle,None,nervous
+228,officers shouting,shout,officer,None
+229,on computer,None,computer,None
+230,on speaker,None,speaker,None
+231,on speakers,None,speaker,None
+232,organ playing,music,organ,None
+233,panicked chatter,chatter,None,panicked
+234,panicked shouting,shout,None,panicked
+235,panting continues,pant,None,None
+236,people exclaiming,exclaim,people,None
+237,people gasp,gasp,people,None
+238,people talking indistinctly,talk,people,indistinctly
+239,phone beeping,beep,phone,None
+240,phone buzzes,buzz,phone,None
+241,phone dings,ding,phone,None
+242,phone vibrates,vibrate,phone,None
+243,phone vibrating,vibrate,phone,None
+244,photographers clamoring,clamor,photographer,None
+245,piano,music,piano,None
+246,players shouting,shout,player,None
+247,police radio chattering,chatter,radio,None
+248,pounding,pound,None,None
+249,pounding continues,pound,None,None
+250,r&b music playing,music,None,None
+251,radio chatter,chatter,radio,None
+252,radio static,static,radio,None
+253,rap music playing,music,None,None
+254,retches,retch,None,None
+255,rifle cocks,cock,rifle,None
+256,running footsteps,footstep,None,running
+257,scattered applause,applause,None,scattered
+258,scoffing,scoff,None,None
+259,ship horn blowing,blow,ship horn,None
+260,shouting in german,shout,None,None
+261,shouting in japanese,shout,None,None
+262,shouting in spanish,shout,None,None
+263,shouting indistinctly,shout,None,indistinctly
+264,shuddering breaths,breath,None,shuddering
+265,sighs in relief,sigh,None,None
+266,sighs softly,sigh,None,softly
+267,silenced gunshot,gunshot,None,silenced
+268,silenced gunshots,gunshot,None,silenced
+269,singing along,sing,None,None
+270,siren wails,wail,siren,None
+271,sirens approaching,None,siren,approaching
+272,slow soft music,music,None,slow;soft
+273,snapping,snap,None,None
+274,snoring continues,snore,None,None
+275,sobbing continues,sob,None,None
+276,soft chuckle,chuckle,None,soft
+277,soldiers screaming,scream,soldier,None
+278,soldiers shouting indistinctly,shout,soldier,indistinctly
+279,soldiers yelling,yell,soldier,None
+280,song fades,song,None,fade
+281,song playing,song,None,None
+282,speaking alien dialect,speak,None,None
+283,speaking hindi,speak,None,None
+284,speaking in alien language,speak,None,None
+285,speaking in italian,speak,None,None
+286,speaking in solutrean,speak,None,None
+287,speaking native language,speak,None,None
+288,speaking other language,speak,None,None
+289,speaking swahili,speak,None,None
+290,speaks alien language,speak,None,None
+291,speaks german,speak,None,None
+292,speaks hindi,speak,None,None
+293,speaks in foreign language,speak,None,None
+294,speaks in italian,speak,None,None
+295,speaks in solutrean,speak,None,None
+296,speaks in spanish,speak,None,None
+297,speaks italian,speak,None,None
+298,speaks japanese,speak,None,None
+299,speaks mandarin,speak,None,None
+300,speaks other language,speak,None,None
+301,speaks xhosa,speak,None,None
+302,sputtering,sputter,None,None
+303,sputters,sputter,None,None
+304,static crackling,crackle,static,None
+305,steam hissing,hiss,steam,None
+306,students laugh,laugh,student,None
+307,students murmuring,murmur,student,None
+308,suspenseful music playing,music,None,suspenseful
+309,talking indistinctly,talk,None,indistinctly
+310,tense music,music,None,tense
+311,thudding continues,thud,None,None
+312,thunder cracking,crack,thunder,None
+313,tires souealing,squeal,tire,None
+314,tony grunts,grunt,tony,None
+315,train horn blaring,blare,train horn,None
+316,train horn blowing,blow,train horn,None
+317,train horn blows,blow,train horn,None
+318,train whistle blows,whistle,train,None
+319,tv playing,None,tv,None
+320,tv playing indistinctly,None,tv,indistinctly
+321,twig snaps,snap,twig,None
+322,urges horse,urges,None,None
+323,vibrating,vibrate,None,None
+324,vocalizes,vocalize,None,None
+325,water dripping,drip,water,None
+326,water splashing,splash,water,None
+327,whinnying,whinny,None,None
+328,whirring stops,whir,None,stop
+329,wind continues whistling,whistle,wind,None
+330,wind gusting,gust,wind,None
+331,woman gasps,gasp,woman,None
+332,woman laughing,laugh,woman,None
+333,woman laughs,laugh,woman,None
+334,woman singing,sing,woman,None
+335,woman sobbing,sob,woman,None
+336,women cheering,cheer,woman,None
+337,women screaming,scream,woman,None
+338,wood creaking,creak,wood,None
+339,yawning,yawn,None,None
+0,air hisses,hiss,air,None
+1,alarm beeps,beep,alarm,None
+2,alarm continues wailing,wail,alarm,None
+3,alert chime,chime,alert,None
+4,alex grunts,grunt,alex,None
+5,alice gasps,gasp,alice,None
+6,alice grunts,grunt,alice,None
+7,all chanting,chant,None,None
+8,all cheering and applauding,cheer;applause,None,None
+9,all singing,sing,None,None
+10,all snarling,snarl,None,None
+11,all snickering,snicker,None,None
+12,all speaking hindi,speak,None,None
+13,all speaking mandarin,speak,None,None
+14,all talking at once,talk,None,None
+15,all yell,yell,None,None
+16,all yelling and grunting,yell;grunt,None,None
+17,all yelling indistinctly,yell,None,indistinctly
+18,all yelp,yelp,None,None
+19,all yelping,yelp,None,None
+20,alpha whines,whine,alpha,None
+21,amplified breathing,breathe,None,amplified
+22,announcer speaking german,speak,announcer,None
+23,announcer speaking indistinctly,speak,announcer,indistinctly
+24,answering machine beeps,beep,answering machine,None
+25,applause continues,applause,None,None
+26,approaching footsteps,footstep,None,approaching
+27,aramaki speaks japanese,speak,aramaki,None
+28,artist 1 speaking,speak,artist 1,None
+29,artist 2 speaking,speak,artist 2,None
+30,ashley laughing,laugh,ashley,None
+31,ashley laughs,laugh,ashley,None
+32,audience applauds,applause,audience,None
+33,audience booing,boo,audience,None
+34,audience clapping,clap,audience,None
+35,audience exclaiming,exclaim,audience,None
+36,audience laughs,laugh,audience,None
+37,automatic gunfire,gunfire,None,automatic
+38,babies crying,cry,baby,None
+39,baby continues crying,cry,baby,None
+40,baby fussing,fuss,baby,None
+41,baby wailing,wail,baby,None
+42,bailey barks,bark,bailey,None
+43,ballad playing,ballad,None,None
+44,band playing,music,band,None
+45,bangs table,bang,table,None
+46,barking and growling,bark;growl,None,None
+47,battle cry,battle cry,None,None
+48,bb-8 chirping excitedly,chirp,bb-8,excitedly
+49,bb-8 chirping nervously,chirp,bb-8,nervously
+50,bb-8 chirps inquisitively,chirp,bb-8,inquisitively
+51,beeping intensifies,beep,None,intensifies
+52,beeps once,beep,None,None
+53,beeps twice,beep,None,None
+54,bell tolling in distance,toll,bell,in distance
+55,bellowing continues,bellow,None,None
+56,bellows,bellow,None,None
+57,bells jingle,jingle,bell,None
+58,bells tolling,toll,bell,None
+59,ben sighs,sigh,ben,None
+60,bicycle bell ringing,ring,bicycle bell,None
+61,bird calling,call,bird,None
+62,bird cawing,caw,bird,None
+63,bird chirping,chirp,bird,None
+64,bird screeches,screech,bird,None
+65,bird screeching,screech,bird,None
+66,bird squawks,squawk,bird,None
+67,birds calling,call,bird,None
+68,birds singing,sing,bird,None
+69,birds tweeting,tweet,bird,None
+70,birds twittering,twitter,bird,None
+71,blowing air,blow,None,None
+72,blowing raspberry,blow,None,None
+73,blowing whistle,whistle,None,None
+74,bob snoring,snore,bob,None
+75,bones crunching,crunch,bone,None
+76,both cheering,cheer,None,None
+77,both continue grunting,grunt,None,None
+78,both coughing,cough,None,None
+79,both crying,cry,None,None
+80,both exhale,exhale,None,None
+81,both giggle,giggle,None,None
+82,both giggling,giggle,None,None
+83,both growling,growl,None,None
+84,both sighing,sigh,None,None
+85,both singing,sing,None,None
+86,both speaking spanish,speak,None,None
+87,both whooping,whoop,None,None
+88,both yell,yell,None,None
+89,both yelping,yelp,None,None
+90,boy laughing,laugh,boy,None
+91,boys chattering,chatter,boy,None
+92,boys screaming,scream,boy,None
+93,branch snaps,snap,branch,None
+94,breathing loudly,breathe,None,loudly
+95,breathing raggedly,breathe,None,raggedly
+96,breathing shallowly,breathe,None,shallowly
+97,breathing sharply,breathe,None,sharply
+98,bridget laughs,laugh,bridget,None
+99,bull grunting,grunt,bull,None
+100,buzzer,None,buzzer,None
+101,buzzer buzzes,buzz,buzzer,None
+102,buzzing stops,buzz,None,stop
+103,call disconnects,disconnect,phone,None
+104,camera beeps,beep,camera,None
+105,car alarm chirps,chirp,car alarm,None
+106,car alarms blaring,blare,car alarm,None
+107,car approaches,None,car,approaching
+108,car door closing,close,car door,None
+109,car door shuts,shut,car door,None
+110,car door slams,slam,car door,None
+111,car drives away,None,car,None
+112,car engine revving,rev,engine,None
+113,car honks,honk,car,None
+114,car horn blares,blare,car horn,None
+115,car starting,None,car,start
+116,carnival music playing,music,None,None
+117,carol anne screaming,scream,carol anne,None
+118,cat meowing,meow,cat,None
+119,cat yowling,yowl,cat,None
+120,cat yowls,yowl,cat,None
+121,cell phone buzzes,buzz,cell phone,None
+122,cell phone chim es,chimes,cell phone,None
+123,cell phone dings,ding,cell phone,None
+124,cellphone ringing,ring,cell phone,None
+125,cellphone rings,ring,cell phone,None
+126,chain saw buzzing,buzz,chainsaw,None
+127,chains rattling,rattle,chain,None
+128,chainsaw whirring,whir,chainsaw,None
+129,chair squeaks,squeak,chair,None
+130,chanting indistinctly,chant,None,indistinctly
+131,chatter stops,chatter,None,stop
+132,chattering stops,chatter,None,stop
+133,cheerful music playing,music,None,cheerful
+134,cheering and applauding,cheer;applause,None,None
+135,cheering and whooping,cheer;whoop,None,None
+136,cheering intensifies,cheer,None,intensifies
+137,chewie growls softly,growl,chewie,softly
+138,chewie roars,roar,chewie,None
+139,child giggling,giggle,child,None
+140,children giggle,giggle,child,None
+141,children giggling,giggle,child,None
+142,chime,chime,None,None
+143,chittering continues,chitter,None,None
+144,choir vocalizing,vocalize,choir,None
+145,chris clears throat,clears throat,chris,None
+146,chris sighs,sigh,chris,None
+147,christmas music playing,music,None,christmas
+148,chuckles awkwardly,chuckle,None,awkwardly
+149,chuckles lightly,chuckle,None,lightly
+150,chuckles slowly,chuckle,None,slowly
+151,clack,clack,None,None
+152,claire gasps,gasp,claire,None
+153,clang,clang,None,None
+154,clank,clank,None,None
+155,clanks,clank,None,None
+156,claps hands,clap,hands,None
+157,classical music continues,music,None,None
+158,clattering in distance,clatter,None,in distance
+159,clinks,clink,None,None
+160,clock continues ticking,tick,clock,None
+161,coins clinking,clink,coin,None
+162,coins jingling,jingle,coin,None
+163,computer chiming,chime,computer,None
+164,continues chanting,chant,None,None
+165,continues coughing,cough,None,None
+166,continues groaning,groan,None,None
+167,continues murmuring,murmur,None,None
+168,continues ringing,ring,None,None
+169,continues snoring,snore,None,None
+170,coughing continues,cough,None,None
+171,crack,crack,None,None
+172,crackles,crackle,None,None
+173,cracks,crack,None,None
+174,creaking stops,creak,None,stop
+175,creaks,creak,None,None
+176,creature growling,growl,creature,None
+177,creature growls,growl,creature,None
+178,creature roars,roar,creature,None
+179,creature shrieking,shriek,creature,None
+180,creatures screeching,screech,creature,None
+181,creatures snarling,snarl,creature,None
+182,crow cawing,caw,crow,None
+183,crowd booing,boo,crowd,None
+184,crowd cheering wildly,cheer,crowd,wildly
+185,crowd groaning,groan,crowd,None
+186,crowd laughs,laugh,crowd,None
+187,crowd murmurs,murmur,crowd,None
+188,crowd roaring,roar,crowd,None
+189,crowd sings one note,sing,crowd,None
+190,crowd whooping,whoop,crowd,None
+191,crowd yelling,yell,crowd,None
+192,crunch,crunch,None,None
+193,crying stops,cry,None,stop
+194,dance music playing over speakers,music,speaker,None
+195,debris clattering,clatter,debris,None
+196,deep creaking,creak,None,deep
+197,deep growl,growl,None,deep
+198,deep growling,growl,None,deep
+199,device powering up,None,device,powering up
+200,device whirring,whir,device,None
+201,dial tone ringing,dial tone,None,None
+202,disco music playing,music,None,None
+203,dishes clattering,clatter,dish,None
+204,distant explosion,explosion,None,distant
+205,distant howling,howl,None,distant
+206,distant roaring,roar,None,distant
+207,distant screaming,scream,None,distant
+208,distant siren blaring,blare,siren,distant
+209,distant siren wailing,wail,siren,distant
+210,distant thudding,thud,None,distant
+211,distorted voice,voice,None,distorted
+212,distorted voices,voice,None,distorted
+213,dog continues barking,bark,dog,None
+214,dog growling,growl,dog,None
+215,dog growls,growl,dog,None
+216,dog panting,pant,dog,None
+217,dog snarling,snarl,dog,None
+218,dog whimpering,whimper,dog,None
+219,dog whines,whine,dog,None
+220,dogs barking in distance,bark,dog,in distance
+221,doomsday growling,growl,None,None
+222,door bangs,bang,door,None
+223,door beeps,beep,door,None
+224,door bell jingles,jingle,doorbell,None
+225,door bells jingling,jingle,doorbell,None
+226,door lock beeps,beep,door lock,None
+227,door locks,locks,door,None
+228,door rattles,rattle,door,None
+229,door slamming,slam,door,None
+230,door unlocks,unlocks,door,None
+231,doorbell buzzes,buzz,doorbell,None
+232,doorbell buzzing,buzz,doorbell,None
+233,doorbell chimes,chime,doorbell,None
+234,doorknob rattles,rattle,doorknob,None
+235,doorknob rattling,rattle,doorknob,None
+236,drill whirring,whir,drill,None
+237,drone whirring,whir,drone,None
+238,drums playing,play,drums,None
+239,dry chuckle,chuckle,None,dry
+240,duke chuckles,chuckle,duke,None
+241,echo chirps,chirp,None,None
+242,echo chittering,chitter,None,None
+243,echo warbles,warble,None,None
+244,echoing thud,thud,None,echoing
+245,eerie melody playing,melody,None,eerie
+246,eerie music,music,None,eerie
+247,eerie music playing,music,None,eerie
+248,ekg beeping rapidly,beep,ekg,rapidly
+249,electrical whirring,whir,None,electrical
+250,electricity buzzing,buzz,electricity,None
+251,electricity powers down,None,electricity,powers down
+252,electricity surges,surges,electricity,None
+253,electronic chime,chime,None,electronic
+254,electronic chirping,chirp,None,electronic
+255,electronic ding,ding,None,electronic
+256,electronic humming,hum,None,electronic
+257,elevator bell chimes,chime,elevator bell,None
+258,elevator door opens,open,elevator door,None
+259,elevator whirring,whir,elevator,None
+260,ellie barking,bark,ellie,None
+261,engine idling,idle,engine,None
+262,engine powering up,None,engine,powering up
+263,engine sputters,sputter,engine,None
+264,engine stalling,stall,engine,None
+265,engine turns off,None,engine,off
+266,engine turns over,turns over,engine,None
+267,engines chugging,chug,engine,None
+268,engines roaring,roar,engine,None
+269,engines whirring,whir,engine,None
+270,ethereal music playing,music,None,ethereal
+271,evelyn chuckles,chuckle,evelyn,None
+272,evie crying,cry,evie,None
+273,exhales forcefully,exhale,None,forcefully
+274,exhales shakily,exhale,None,shakily
+275,exhales slowly,exhale,None,slowly
+276,exhales softly,exhale,None,softly
+277,exhaling sharply,exhale,None,sharply
+278,explosion in distance,explosion,None,in distance
+279,explosive whooshing,whoosh,None,explosive
+280,faint rumbling,rumble,None,faint
+281,faint rustling,rustle,None,faint
+282,falcon shrieks,shriek,falcon,None
+283,feedback whining,feedback,None,whine
+284,finn grunts,grunt,finn,None
+285,fire roaring,roar,fire,None
+286,flames crackling,crackle,flame,None
+287,flips switches,flip,switch,None
+288,flowers chattering,chatter,flower,None
+289,folk music playing,music,None,None
+290,footsteps running,footstep,None,run
+291,footsteps thudding,footstep,None,thud
+292,gabriel crying,cry,gabriel,None
+293,gas hissing,hiss,gas,None
+294,gasping continues,gasp,None,None
+295,gasps loudly,gasp,None,loudly
+296,gate opens,open,gate,None
+297,gavel banging,bang,gavel,None
+298,gavel raps,rap,gavel,None
+299,gentle melody plays,melody,None,gentle
+300,gentle music,music,None,gentle
+301,gentle music playing,music,None,gentle
+302,gentle music plays,music,None,gentle
+303,ghostly singing continues,sing,None,ghostly
+304,girl laughs,laugh,girl,None
+305,girl screaming,scream,girl,None
+306,girl screams,scream,girl,None
+307,girls gasp,gasp,girl,None
+308,girls laugh,laugh,girl,None
+309,glass breaking,break,glass,None
+310,glass breaks,break,glass,None
+311,glass cracking,crack,glass,None
+312,glass crunching,crunch,glass,None
+313,glasses clink,clink,glass,None
+314,glasses clinking,clink,glass,None
+315,grand orchestral fanfare playing,fanfare,None,orchestral
+316,groaning weakly,groan,None,weakly
+317,groans quietly,groan,None,quietly
+318,growling continues,growl,None,None
+319,grunting and yelling,grunt;yell,None,None
+320,grunts loudly,grunt,None,loudly
+321,grunts quietly,grunt,None,quietly
+322,guards shouting indistinctly,shout,guards,indistinctly
+323,guests gasping,gasp,guest,None
+324,guests laughing,laugh,guest,None
+325,guests murmuring,murmur,guest,None
+326,gulping,gulp,None,None
+327,gun clatters,clatter,gun,None
+328,gun shot,gunshot,gun,None
+329,gunfire in distance,gunfire,None,in distance
+330,gunshots firing,gunshot,None,None
+331,hammer cocks,cock,hammer,None
+332,hammering continues,hammer,None,None
+333,handcuffs clicking,click,handcuff,None
+334,hands clap twice,clap,hands,None
+335,heart monitor beeping,beep,heart monitor,None
+336,heavy footsteps approaching,footstep,None,approaching;heavy
+337,helicopter blades thumping,thump,helicopter,None
+338,helicopter hovering,hover,helicopter,None
+339,helicopters whirring,whir,helicopter,None
+340,henry coughing,cough,henry,None
+341,high-pitched voice,voice,None,high-pitched
+342,high-pitched whining,whine,None,high-pitched
+343,high-pitched whirring,whir,None,high-pitched
+344,hinge creaking,creak,hinge,None
+345,hinges creak,creak,hinge,None
+346,hip hop music playing,music,None,None
+347,hip-hop music playing over speakers,music,speaker,None
+348,holo beeping,beep,holo,None
+349,honking continues,honk,None,None
+350,honking horn,honk,horn,None
+351,honks,honk,None,None
+352,horn blows,blow,horn,None
+353,horn plays badly in distance,None,horn,in distance
+354,horse grunting,grunt,horse,None
+355,horse grunts,grunt,horse,None
+356,horse snorting,snort,horse,None
+357,horse whickering,whicker,horse,None
+358,horse whickers,whicker,horse,None
+359,horses whinny,whinny,horse,None
+360,huffing,huff,None,None
+361,ice cracking,crack,ice,None
+362,in man's voice,voice,None,None
+363,inaudible sound,sound,None,inaudible
+364,indistinct announcement over pa,None,pa,indistinct
+365,indistinct chatter and laughter,chatter;laugh,None,indistinct
+366,indistinct chatter on pa,chatter,pa,indistinct
+367,indistinct chatter on police radio,chatter,radio,indistinct
+368,indistinct chatter on tv,chatter,tv,indistinct
+369,indistinct japanese chatter,chatter,None,indistinct
+370,indistinct pa chatter,chatter,pa,indistinct
+371,indistinct radio communication,None,radio,indistinct
+372,indistinct shouting continues,shout,None,indistinct
+373,indistinct shouts,shout,None,indistinct
+374,indistinct speaking over radio,speak,radio,indistinct
+375,infant crying,cry,infant,None
+376,inhaling deeply,inhale,None,deeply
+377,intercom beeps,beep,intercom,None
+378,intercom buzzes,buzz,intercom,None
+379,irina sighs,sigh,irina,None
+380,jack-jack cooing,coo,jack-jack,None
+381,jack-jack giggling,giggle,jack-jack,None
+382,jacques chuckles,chuckle,jacques,None
+383,jeering,jeer,None,None
+384,jonathan grunts,grunt,jonathan,None
+385,katy laughs,laugh,katy,None
+386,keda grunting,grunt,keda,None
+387,keda grunts,grunt,keda,None
+388,kettle whistling,whistle,kettle,None
+389,kevin speaks minionese,speak,kevin,None
+390,keypad beeps,beep,keypad,None
+391,keys jangle,jangle,key,None
+392,kids giggling,giggle,kid,None
+393,kids screaming,scream,kid,None
+394,kissing sounds,kiss,None,None
+395,knock at door,knock,door,None
+396,knuckles cracking,crack,knuckle,None
+397,kurt chuckles,chuckle,kurt,None
+398,latch clicks,click,latch,None
+399,laugh,laugh,None,None
+400,laughing hysterically,laugh,None,hysterically
+401,laughing maniacally,laugh,None,maniacally
+402,laughs mockingly,laugh,None,mockingly
+403,laughter on tv,laugh,tv,None
+404,laura screaming,scream,laura,None
+405,lemmings chattering,chatter,lemming,None
+406,lights buzzing,buzz,light,None
+407,lightsaber crackling,crackle,lightsaber,None
+408,lightsaber humming,hum,lightsaber,None
+409,line beeps,beep,phone,None
+410,lisa screaming,scream,lisa,None
+411,lndlstlnct talking,talk,None,indistinct
+412,loud bang,bang,None,loud
+413,loud clang,clang,None,loud
+414,loud knocking,knock,None,loud
+415,loud whirring,whir,None,loud
+416,low chatter,chatter,None,low
+417,low grunting,grunt,None,low
+418,low snarling,snarl,None,low
+419,low voice,voice,None,low
+420,low whirring,whir,None,low
+421,lucy crying,cry,lucy,None
+422,machine beeps,beep,machine,None
+423,machine gun firing,firing,machine gun,None
+424,machine powering up,None,machine,powering up
+425,machinery whirring,whir,machinery,None
+426,machines beeping,beep,machine,None
+427,man clears throat,clears throat,man,None
+428,man continues singing in hebrew,sing,man,None
+429,man coughs,cough,man,None
+430,man gasping,gasp,man,None
+431,man on p.a.,None,pa,None
+432,man on tv,None,tv,None
+433,man shouts indistinctly,shout,man,indistinctly
+434,man singing in spanish,sing,man,None
+435,man sobbing,sob,man,None
+436,man speaking french,speak,man,None
+437,man speaking indistinctly over p.a.,speak,pa,indistinctly
+438,man speaking indistinctly over pa,speak,pa,indistinctly
+439,man whistles,whistle,man,None
+440,man whoops,whoop,man,None
+441,man yelling indistinctly,yell,man,indistinctly
+442,max barks,bark,max,None
+443,mechanical thumping,thump,None,mechanical
+444,mellow music playing,music,None,mellow
+445,mellow song playing,song,None,mellow
+446,men chattering indistinctly,chatter,men,indistinctly
+447,men chuckling,chuckle,men,None
+448,men exclaiming,exclaim,men,None
+449,men grunt,grunt,men,None
+450,men laugh,laugh,men,None
+451,men shouting in arabic,shout,men,None
+452,men shouting in spanish,shout,men,None
+453,men speaking german,speak,men,None
+454,men speaking spanish,speak,men,None
+455,men whooping,whoop,men,None
+456,men yelling indistinctly,yell,men,indistinctly
+457,metal clanks,clank,metal,None
+458,metal scraping,scrape,metal,None
+459,metallic rattling,rattle,None,metallic
+460,mia chuckles,chuckle,mia,None
+461,moaning continues,moan,None,None
+462,moans softly,moan,None,softly
+463,monkeys chittering,chitter,monkeys,None
+464,monsters grunting and growling,grunt;growl,None,None
+465,motor whirring,whir,motor,None
+466,motorcycle revving,rev,motorcyle,None
+467,moving to dramatic music,music,None,dramatic
+468,muffled gunshots,gunshot,None,muffled
+469,muffled rock music,music,None,muffled
+470,muffled whimpering,whimper,None,muffled
+471,muffled yelling,yell,None,muffled
+472,murmuring continues,murmur,None,None
+473,murmurs,murmur,None,None
+474,music playing on speakers,music,speaker,None
+475,music playing over radio,music,radio,None
+476,music playing over speaker,music,speaker,None
+477,muted music,music,None,muted
+478,muzak playing,music,None,None
+479,neck cracking,crack,neck,None
+480,newswoman speaking cantonese,speak,newswoman,None
+481,nick gasps,gasp,nick,None
+482,nick sighs,sigh,nick,None
+483,object clatters,clatter,object,None
+484,objects clatter,clatter,object,None
+485,ominous music,music,None,ominous
+486,opera music playing,music,None,None
+487,organ music playing,music,organ,None
+488,overlapping talking,talk,None,overlapping
+489,overlapping whispers,whisper,None,overlapping
+490,pa dings,ding,pa,None
+491,pained grunt,grunt,None,pained
+492,pained grunting,grunt,None,pained
+493,panicked screaming,scream,None,panicked
+494,panicked shouts,shout,None,panicked
+495,panting heavily,pant,None,heavily
+496,panting quietly,pant,None,quietly
+497,panting softly,pant,None,softly
+498,paper rustling,rustle,paper,None
+499,passengers screaming,scream,passenger,None
+500,people applauding,applause,people,None
+501,people chuckling,chuckle,people,None
+502,people coughing,cough,people,None
+503,people exclaim,exclaim,people,None
+504,people groaning,groan,people,None
+505,people scream,scream,people,None
+506,people shouting indistinctly,shout,people,indistinctly
+507,people speaking indistinctly,speak,people,indistinctly
+508,people whooping,whoop,people,None
+509,peter screaming,scream,peter,None
+510,phone chiming,chime,phone,None
+511,phone clatters,clatter,phone,None
+512,phones ringing,ring,phone,None
+513,piano continues playing,music,piano,None
+514,piano music,music,piano,None
+515,piano music playing,music,piano,None
+516,players grunting,grunt,player,None
+517,playing classical music,music,None,None
+518,playing notes,music,None,None
+519,playing piano,music,piano,None
+520,playing upbeat music,music,None,upbeat
+521,police siren wailing,wail,siren,None
+522,police sirens wailing,wail,siren,None
+523,pop music playing on radio,music,radio,None
+524,pop song playing,song,None,None
+525,portal whooshing,whoosh,portal,None
+526,r2-d2 beeping,beep,r2-d2,None
+527,rachel chuckles,chuckle,rachel,None
+528,rachel sighs,sigh,rachel,None
+529,ragged breathing,breathe,None,ragged
+530,rain falling,rain,None,None
+531,rapid gunfire,gunfire,None,rapid
+532,rapid panting,pant,None,rapid
+533,rats squeaking,squeak,rat,None
+534,rattling continues,rattle,None,None
+535,rey grunts,grunt,rey,None
+536,rey panting,pant,rey,None
+537,rey yelps,yelp,rey,None
+538,rhythmic beeping,beep,None,rhythmic
+539,rhythmic clacking,clack,None,rhythmic
+540,rhythmic clapping,clap,None,rhythmic
+541,rhythmic thumping,thump,None,rhythmic
+542,ringing stops,ring,None,stop
+543,rings,ring,None,None
+544,ringtone playing,ringtone,None,None
+545,robotic voice,voice,None,robotic
+546,rock music,music,None,None
+547,rock music playing on stereo,music,stereo,None
+548,rock music playing over speakers,music,speaker,None
+549,romantic music playing,music,None,romantic
+550,rooster crowing,crow,rooster,None
+551,rumbles,rumble,None,None
+552,rumbling in distance,rumble,None,in distance
+553,ryan chuckles,chuckle,ryan,None
+554,sad music,music,None,sad
+555,saw whirring,whir,saw,None
+556,scanner beeps,beep,scanner,None
+557,scattered chatter,chatter,None,scattered
+558,scattered clapping,clap,None,scattered
+559,screaming in pain,scream,None,in pain
+560,seagulls cawing,caw,seagull,None
+561,seagulls squawking,squawk,seagull,None
+562,shattering,shatter,None,None
+563,shell whistling,whistle,shell,None
+564,ship horn bellows,bellow,ship horn,None
+565,ship horn blows,blow,ship horn,None
+566,shoes squeaking,squeak,shoe,None
+567,shouting in arabic,shout,None,None
+568,shouting in foreign language,shout,None,None
+569,shouting in greek,shout,None,None
+570,shouting in turkish,shout,None,None
+571,shouts in xhosa,shout,None,None
+572,shuddering breath,breath,None,shuddering
+573,shutter clicking,click,camera,None
+574,sighs loudly,sigh,None,loudly
+575,singing hip-hop song,sing,None,None
+576,singing in spanish,sing,None,None
+577,singing pop song,sing,None,None
+578,singing r&b song,sing,None,None
+579,singing stops,sing,None,stop
+580,siren blares,blare,siren,None
+581,siren chirping,chirp,siren,None
+582,siren wailing in the distance,wail,siren,in distance
+583,sirens continue,None,siren,None
+584,sirens continue wailing,wail,siren,None
+585,slams,slam,None,None
+586,slow country music playing,music,None,slow
+587,snapping fingers,snap,finger,None
+588,snaps,snap,None,None
+589,snores,snore,None,None
+590,sobbing quietly,sob,None,quietly
+591,sobbing softly,sob,None,softly
+592,sobs softly,sob,None,softly
+593,soft dramatic music,music,None,soft;dramatic
+594,soft growl,growl,None,soft
+595,soft music,music,None,soft
+596,soft piano music,music,piano,soft
+597,soldier screaming,scream,soldier,None
+598,soldier shouting in german,shout,soldier,None
+599,soldier shouts,shout,soldier,None
+600,soldiers chanting,chant,soldier,None
+601,soldiers cheering,cheer,soldier,None
+602,soldiers clamoring,clamor,soldier,None
+603,soldiers groaning,groan,soldier,None
+604,soldiers laughing,laugh,soldier,None
+605,soldiers shouting in german,shout,soldier,None
+606,soldiers speaking german,speak,soldier,None
+607,sonar beeping,beep,sonar,None
+608,song stops,song,None,stop
+609,sophia chuckles,chuckle,sophia,None
+610,sotiris chuckles,chuckle,sotiris,None
+611,speaking a foreign language,speak,None,None
+612,speaking chinese,speak,None,None
+613,speaking dari,speak,None,None
+614,speaking gibberish,speak,None,None
+615,speaking in german,speak,None,None
+616,speaking in japanese,speak,None,None
+617,speaking ln turkish,speak,None,None
+618,speaking malay,speak,None,None
+619,speaking portuguese,speak,None,None
+620,speaking urdu,speak,None,None
+621,speaks arabic,speak,None,None
+622,speaks cantonese,speak,None,None
+623,speaks english,speak,None,None
+624,speaks foreign language,speak,None,None
+625,speaks gibberish,speak,None,None
+626,speaks in german,speak,None,None
+627,speaks indistinctly,speak,None,indistinctly
+628,speaks russian,speak,None,None
+629,spectators laughing,laugh,spectator,None
+630,spectators murmuring,murmur,spectator,None
+631,splash,splash,None,None
+632,splashing,splash,None,None
+633,stairs creaking,creak,stairs,None
+634,starts engine,None,engine,None
+635,static crackles,crackle,static,None
+636,static on radio,static,radio,None
+637,steady beeping,beep,None,steady
+638,steady beeping continues,beep,None,steady
+639,stomach rumbling,rumble,stomach,None
+640,students chattering,chatter,student,None
+641,students gasping,gasp,student,None
+642,susan whistles,whistle,susan,None
+643,suspenseful music,music,None,suspenseful
+644,sweeping music playing,music,None,sweeping
+645,switch clicking,click,switch,None
+646,switches clicking,click,switch,None
+647,swords clanging,clang,sword,None
+648,tami grunting,grunt,tami,None
+649,tami grunts,grunt,tami,None
+650,tammy chuckles,chuckle,tammy,None
+651,taser crackling,crackle,taser,None
+652,teacher speaking,speak,teacher,None
+653,theme music playing,music,None,None
+654,through speakers,None,speaker,None
+655,thumps once,thump,None,None
+656,thunder continues rumbling,rumble,thunder,None
+657,thunder crackling,crackle,thunder,None
+658,thunder cracks,crack,thunder,None
+659,timer buzzing,buzz,timer,None
+660,timer ringing,ring,timer,None
+661,timer ticking,tick,timer,None
+662,todd groans,groan,todd,None
+663,tom groans,groan,tom,None
+664,tom grunting,grunt,tom,None
+665,tom meowing,meow,tom,None
+666,tom meows,meow,tom,None
+667,tom sighs,sigh,tom,None
+668,tony chuckles,chuckle,tony,None
+669,tony groans,groan,tony,None
+670,tony sighs,sigh,tony,None
+671,toy squeaks,squeak,toy,None
+672,train approaching,None,train,approaching
+673,train chugging,chug,train,None
+674,train horn blowing in distance,blow,train horn,in distance
+675,train passing,None,train,passing
+676,translator speaking korean,speak,translator,None
+677,trembling breath,breath,None,trembling
+678,trembling breaths,breath,None,trembling
+679,trilling,trill,None,None
+680,truck beeping,beep,truck,None
+681,truck honking,honk,truck,None
+682,truck horn blares,blare,truck horn,None
+683,tuck laughs,laugh,tuck,None
+684,turns off tv,None,tv,off
+685,twigs snapping,snap,twig,None
+686,two gunshots,gunshot,None,None
+687,upbeat music,music,None,upbeat
+688,upbeat song playing,song,None,upbeat
+689,urging horse,urge,horse,None
+690,video game beeping,beep,video game,None
+691,vocalizing continues,vocalize,None,None
+692,voice breaks,voice,None,break
+693,voicemail beeps,beep,voicemail,None
+694,voices whispering,whisper,None,None
+695,wails,wail,None,None
+696,watch beeps,beep,watch,None
+697,water bubbling,bubble,water,None
+698,water gurgling,gurgle,water,None
+699,water sloshing,slosh,water,None
+700,water splashes,splash,water,None
+701,wheezes,wheeze,None,None
+702,whimpers softly,whimper,None,softly
+703,whining continues,whine,None,None
+704,whip cracking,crack,whip,None
+705,whip strikes,strike,whip,None
+706,whipping,None,whip,None
+707,whirring continues,whir,None,None
+708,whirring then beeping,whir;beep,None,None
+709,whirs,whir,None,None
+710,whispering indistinctly,whisper,None,indistinctly
+711,whispers indistinctly,whisper,None,indistinctly
+712,whistling continues,whistle,None,None
+713,whooshes,whoosh,None,None
+714,wind whistling softly,whistle,wind,softly
+715,wolf howling,howl,wolf,None
+716,wolves howling,howl,wolf,None
+717,woman crying,cry,woman,None
+718,woman moaning,moan,woman,None
+719,woman on pa,None,pa,None
+720,woman shouting,shout,woman,None
+721,woman shrieks,shriek,woman,None
+722,woman singing in spanish,sing,woman,None
+723,woman speaking indistinctly,speak,woman,indistinctly
+724,woman speaking indistinctly over pa,speak,pa,indistinctly
+725,woman wailing,wail,woman,None
+726,woman whimpering,whimper,woman,None
+727,woman whimpers,whimper,woman,None
+728,women chattering,chatter,woman,None
+729,women gasp,gasp,woman,None
+730,women gasping,gasp,woman,None
+731,women giggling,giggle,woman,None
+732,women shouting,shout,woman,None
+733,women sobbing,sob,woman,None
+734,women whooping,whoop,woman,None
+735,yelling continues,yell,None,None
+736,yelling in foreign language,yell,None,None
+737,yelling in pain,yell,None,None
+738,yelling in spanish,yell,None,None
+739,yells and grunts,yell;grunt,None,None
+740,yells in pain,yell,None,in pain
+0,ekg flatlining,flatline,ekg,None
+1,lightsaber activating,None,lightsaber,activating
+2,elody,melody,None,None
+3,scatting,music,None,None
+4,singsong,None,None,singsong
+5,high-pitched,None,None,high-pitched
+6,in falsetto,None,None,in falsetto
+7,overlapping,None,None,overlapping
+8,fades,None,None,fade
+9,carolina in spanish,speak,None,None
+10,in southern accent,speak,None,None
+11,muted,None,None,muted
+12,singsongy,None,None,singsong
+13,milton in spanish,speak,None,None
+14,faucet running,None,faucet,running
+15,sing-song,None,None,singsong
+16,cha‘i'i'ering,chattering,None,None
+17,shakily,None,None,shakily
+18,over comm,None,pa,None
+19,gruff,None,None,gruff
+20,soft,None,None,soft
+21,mockingly,None,None,mockingly
+22,high-pitched tone,None,None,high-pitched
+23,flatline tone,flatline,None,None
+24,loud,None,None,loud
+25,faintly,None,None,faintly
+26,powering down,None,None,powering down
+27,hangs up,disconnects,phone,None
+28,low,None,None,low
+29,distant,None,None,distant
+30,breeze,None,wind,None
+31,instrumental,music,None,None
+32,strains,strain,None,None
+33,weapon powering up,None,weapon,powering up
+34,drums beating,beat,drum,None
+35,crash,crash,None,None
+36,firing,fire,None,None
+37,keys jangling,jangle,key,None
+38,deep rumbling,rumble,None,deep
+39,yowling,yowl,None,None
+40,feedback,feedback,None,None
+41,melody slowing,melody,None,slowing
+42,clinking,clink,None,None
+43,splashes,splash,None,None
+44,low rumbling,rumble,None,low
+45,kissing,kiss,None,None
+46,powering up,None,None,powering up
+47,both straining,strain,None,None
+48,strained,strain,None,None
+49,jingling,jingle,None,None
+50,rumbling continues,rumble,None,None
+51,jangling,jangle,None,None
+52,on intercom,None,intercom,None
+53,distant rumbling,rumble,None,distant
+54,all booing,boo,None,None
+55,tom yowls,yowl,tom,None
+56,light laughter,laugh,light,None
+57,over intercom,None,intercom,None
+58,drums beating rhythmically,beat,drum,rhythmically
+59,upbeat drumming,None,drum,upbeat
+60,rumbling stops,rumble,None,stop
+61,tom yowling,yowl,tom,None
+62,yowls,yowl,None,None
+63,keys jingling,jingle,key,None
+64,rey straining,strain,rey,None
+65,crashes,crash,None,None
+66,keys jingle,jingle,key,None
+67,melody stops,melody,None,stop
+68,loud crash,crash,None,loud
+69,waves crashing,crash,waves,None
+70,sheep bleating,bleat,sheep,None
+71,heart beating,heartbeat,None,None
+72,wincing,wince,None,None
+73,ducks quacking,quack,duck,None
+74,clucking,cluck,None,None
+75,vvhimpering,whimper,None,None
+76,translates into hindi,speak,None,None
+77,owl hooting,hoot,owl,None
+78,m usic,music,None,None
+79,clears th roat,clears throat,None,None
+80,on loudspeaker,None,loudspeaker,None
+81,goat bleating,bleat,goat,None
+82,souealing,squeal,None,None
+83,llne rlnglng,ring,phone,None
+84,sprinkles,sprinkles,None,None
+85,scattered laughter,laughter,None,scattered
+86,cranking,crank,None,None
+87,trumpets,None,trumpets,None
+88,braying,bray,None,None
+89,fireworks exploding,explode,firework,None
+90,elephant trumpets,trumpet,elephant,None
+91,metallic clunking,clunk,None,metallic
+92,in italian,speak,None,None
+93,zapping,zap,None,None
+94,unzipping,unzip,None,None
+95,burbling,burble,None,None
+96,chewing,chew,None,None
+97,vvhispering,whisper,None,None
+98,sizzles,sizzle,None,None
+99,ball bouncing,bounce,ball,None
+100,over p.a.,None,pa,None
+101,clunking,clunk,None,None
+102,thanks in french,speak,None,None
+103,slaps,slap,None,None
+104,continues in german,speak,None,None
+105,pinging,ping,None,None
+106,exploding,explode,None,None
+107,urinating,urinate,None,None
+108,pops,pops,None,None
+109,liquid pouring,pour,liquid,None
+110,whirrs,whir,None,None
+111,booming,boom,None,None
+112,conversing in german,speak,None,None
+113,laughter continues,laughter,None,None
+114,tape rewinding,rewind,tape,None
+115,sloshing,slosh,None,None
+116,gurgling,gurgle,None,None
+117,tapping,tap,None,None
+118,clunk,clunk,None,None
+119,yipping,yip,None,None
+120,mocking,mock,None,None
+121,farting,fart,None,None
+122,in french accent,speak,None,None
+123,trumpeting,trumpeting,None,None
+124,gruntlng,grunt,None,None
+125,vomiting,vomit,None,None
+126,fireworks popping,pop,firework,None
+127,chomping,chomp,None,None
+128,laug hter,laughter,None,None
+129,cows mooing,moo,cow,None
+130,elephant trumpeting,trumpet,elephant,None
+131,speakers: hip-hop,None,speaker,None
+132,in foreign language,speak,None,None
+133,hip-hop continues,music,None,None
+134,spraying,spray,None,None
+135,on tape,None,tape,None
+136,spitting,spit,None,None
+137,explodes,explodes,None,None
+138,goats bleating,bleat,goat,None
+139,munching,munch,None,None
+140,quiet laughter,laughter,None,quiet
+141,shower running,None,shower,running
+142,scratching,scratch,None,None
+143,hoofbeats approaching,hoofbeats,None,approaching
+144,chickens clucking,cluck,chicken,None
+145,gunsho‘i,gunshot,None,None
+146,over loudspeaker,None,loudspeaker,None
+147,farts,fart,None,None
+148,bleats,bleats,None,None
+149,bullet ricochets,ricochet,bullet,None
+150,weeping,weep,None,None
+151,wings flapping,flap,wing,None
+152,cork pops,pops,cork,None
+153,soueals,squeals,None,None
+154,babbling,babble,None,None
+155,all applaud,applause,None,None
+156,farting noise,fart,None,None
+157,indistinct arguing,arguing,None,indistinct
+158,vvhispers,whispers,None,None
+159,in spanish accent,speak,None,None
+160,babbles,babble,None,None
+161,gibbering,gibber,None,None
+162,tinkling,tinkle,None,None
+163,emily reciting,recite,emily,None
+164,bubbling,bubble,None,None
+165,chati'ering,chatter,None,None
+166,beatboxing,beatbox,None,None
+167,scratching noise,scratch,None,None
+168,in british accent,speak,None,None
+169,indistinct cha'i'i'er,chatter,None,indistinct
+170,arabic,speak,None,None
+171,in elvish,speak,None,None
+172,squelching,squelch,None,None
+173,wings fluttering,fluttering,wings,None
+174,drumroll,drumroll,None,None
+175,maniacal laughter,laughter,None,maniacal
+176,gurgles,gurgle,None,None
+177,french accent,speak,None,None
+178,bleating,bleat,None,None
+179,vomits,vomit,None,None
+180,popping,pop,None,None
+181,shivering,shiver,None,None
+182,fireworks bursting,burst,fireworks,None
+183,arguing,argue,None,None
+184,belches,belch,None,None
+185,indistinct chati'er,chatter,None,indistinct
+186,clearing throat,clears throat,None,None
+187,trembling,tremble,None,None
+188,bullets ricocheting,ricochet,bullet,None
+189,spanish,speak,None,None
+190,hooting,hoot,None,None
+191,winces,wince,None,None
+192,mooing,moo,None,None
+193,bullet ricocheting,ricochet,bullet,None
+194,arguing continues,argue,None,None
+195,swallows,swallow,None,None
+196,slurring,slur,None,None
