@@ -38,12 +38,14 @@ n_class=120         ## Number of sound classes
 The following script will initiate training and evaluation for audio event detection.
 
 ```
+cd unimodal
 bash/sbatch run.sh
 ```
 
 ### Multimodal baseline:
 ```
-bash/sbatch run.sh
+cd multimodal
+bash/sbatch run_mm.sh
 ```
 
 ## Results
