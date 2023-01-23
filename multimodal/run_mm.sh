@@ -19,12 +19,11 @@ audiosetpretrain=True
 lr=1e-5
 epoch=15
 
-project_dir=/scratch1/rajatheb/mica-sed-scripts
-data_dir=${project_dir}/data
-tr_data=${data_dir}/train.json
-val_data=${data_dir}/val.json
-test_data=${data_dir}/test.json
-label_csv=${data_dir}/movie_sounds.csv
+project_dir=<BASEPATH>/mica-subtitle-aligned-movie-sounds/
+tr_data=${project_dir}/data/train.json
+val_data=${project_dir}/data/val.json
+test_data=${project_dir}/data/test.json
+label_csv=${project_dir}/data/movie_sounds.csv
 
 num_workers=32
 n_class=120
@@ -46,7 +45,7 @@ if [ -d $exp_dir ]; then
 fi
 mkdir -p $exp_dir
 
-CUDA_CACHE_DISABLE=1 python -W ignore ./run_clipmm.py \
+CUDA_CACHE_DISABLE=1 python -W ignore ./run_mm.py \
 --data-train ${tr_data} --data-val ${val_data} --data-eval ${test_data} --exp-dir $exp_dir \
 --label-csv ${label_csv} --n-class ${n_class} --posembed ${pe} \
 --lr $lr --n-epochs ${epoch} --batch-size $batch_size --save_model True \
