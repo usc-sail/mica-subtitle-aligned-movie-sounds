@@ -20,7 +20,7 @@ audiosetpretrain=True
 lr=1e-5
 epoch=15
 
-project_dir=/scratch1/rajatheb/mica-sed-scripts
+project_dir=<BASEPATH>/mica-subtitle-aligned-movie-sounds
 tr_data=${project_dir}/data/train.json
 val_data=${project_dir}/data/val.json
 test_data=${project_dir}/data/test.json
