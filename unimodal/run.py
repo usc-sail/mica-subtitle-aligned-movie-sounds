@@ -8,8 +8,7 @@ import pickle
 import sys
 import time
 import torch
-basepath = os.path.dirname(os.path.dirname(sys.path[0]))
-sys.path.append(basepath)
+sys.path.append('../')
 import dataloader
 import models
 import numpy as np
